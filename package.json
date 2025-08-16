@@ -1,6 +1,6 @@
 {
   "name": "version-push",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This helps to increase the version number of package.json file",
   "main": "index.js",
   "bin": {
