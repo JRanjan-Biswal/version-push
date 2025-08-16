@@ -2,6 +2,7 @@
 
 1. This is used to push command to the respective branch
 2. Also is used to maintain the semantic versioning
+3. auto pushed the code to the current branch after version change
 
 <br />
 
@@ -9,7 +10,7 @@
 ### step 1 :  add this inside package.json 
 ```js
 "scripts": {
-"push": "node ./node_modules/version-push"
+    "push": "version-push"
 }
 ```
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { promisify } from 'util';
 import cp, { execSync } from "child_process";
 
